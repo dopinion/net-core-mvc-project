@@ -1,0 +1,18 @@
+{
+  "name": "angular",
+  "version": "1.5.10-build.5176+sha.f5d2bf3",
+  "license": "MIT",
+  "main": "./angular.js",
+  "ignore": [],
+  "dependencies": {},
+  "homepage": "https://github.com/angular/bower-angular",
+  "_release": "1.5.10-build.5176+sha.f5d2bf3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.5.10-build.5176+sha.f5d2bf3",
+    "commit": "47980fd2b7a3b1d8457b55596659af2150c03976"
+  },
+  "_source": "https://github.com/angular/bower-angular.git",
+  "_target": "1.5.10-build.5176+sha.f5d2bf3",
+  "_originalSource": "angular"
+}
