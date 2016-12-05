@@ -61,7 +61,8 @@
       "wwwroot",
       "web.config",
       "Views",
-      "config.json"
+      "config.json",
+      "project.json"
     ]
   },
 
